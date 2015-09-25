@@ -10,7 +10,7 @@ using System.Web.Http.Controllers;
 using System.IO;
 using System.Net.Http.Headers;
 
-namespace LolcommitAdapter
+namespace SelfieServer
 {
     public class ImagesController : IHttpController
     {

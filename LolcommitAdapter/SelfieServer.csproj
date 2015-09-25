@@ -7,7 +7,7 @@
     <ProjectGuid>{9DD17E7A-8FE5-4E5E-BB7E-47A62B80C6EC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LolcommitAdapter</RootNamespace>
+    <RootNamespace>SelfieServer</RootNamespace>
     <AssemblyName>LolcommitAdapter</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

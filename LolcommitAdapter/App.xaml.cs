@@ -8,7 +8,7 @@ using System.Windows;
 using Owin;
 using Microsoft.Owin.Hosting;
 
-namespace LolcommitAdapter
+namespace SelfieServer
 {
     /// <summary>
     /// Interaction logic for App.xaml
